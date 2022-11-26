@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /*
-In this section we will see how we can find binary or octal number.
+In this section we will see how we can find binary or decimal number.
 ____________________________________________________________________
 Question : for a given number find the binary and decimal digits.
 ___________________________________________________________________
